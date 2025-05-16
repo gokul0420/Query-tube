@@ -1,4 +1,4 @@
-# Yt_Tutor
+# Query - Tube
 This project creates a Retrieval-Augmented Generation (RAG) pipeline that allows users to extract and answer questions from YouTube video transcripts using advanced NLP techniques.
 
 ## Features
